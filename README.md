@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coolbeans1212
 - 👀 I’m interested in programming? like why else would i make a github account
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate with the guys who made <a href="https://web.archive.org/web/20240326184706/https://awesomesauce.software/">https://awesomesauce.software</a>
 - 📫 How to reach me: email matei@mateishome.page, discord @bmpimg.
 - 😄 Pronouns: ban/ana
