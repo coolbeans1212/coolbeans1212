@@ -22,7 +22,7 @@ The software is provided as-is, with no warranty to the extent permitted by appl
 
 You are free to distribute, reverse-engineer, modify, use, compile, sell, archive, or copy this software under the following conditions:
 •Attribution: If this software is shared or distributed, including in modified form, you must provide a hyperlink to either the software's page or author's page. Alternatively, you may state the author's full name or full company name.
-•Malicious use: If you make a derivative of this software for malicious use, not only is the author of the original software not responsible for any damages, you must provide a link to a clip of you singing "Shape of You" by Ed Sheeran in full as well as the other links you have provided to fulfil the attribution term.
+•Malicious use: If you make a derivative of this software for malicious use, not only is the author of the original software not responsible for any damages, you must provide a link to a clip of you singing "Shape of You" by Ed Sheeran in full as well as the other links you have provided to fulfil the attribution term if the new malicious version is shared or distributed.
 
 
 ==========4: Afterthoughts==========
