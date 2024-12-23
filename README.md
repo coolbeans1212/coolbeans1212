@@ -5,7 +5,7 @@
 - 📫 How to reach me: email matei@mateishome.page, discord @bmpimg.
 - 😄 Pronouns: ban/ana
 - ⚡ Fun fact: i have <a href="https://mateishome.page">a website</a> and its cool
-
+- 🦟 Fun fact 2: for some reason github is broken so i have to inspect element the "commit changes" button to remove the disabled attribute whenever i want to edit this stupid readme file
 <!---
 coolbeans1212/coolbeans1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
