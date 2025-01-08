@@ -7,7 +7,7 @@
 - ⚡ Fun fact: i have <a href="https://mateishome.page">a website</a> and its cool
 - 🦟 Fun fact 2: modu is awesome and you should use it
 - 🪿 Fun fact 3: i love php but i HATE javascript... the syntax is so bad!!!!!
-- 😼 Fun fact 4: github copilot told be to tell you that php is my one true love (its not that far off tbh)
+- 😼 Fun fact 4: github copilot told me to tell you that php is my one true love (its not that far off tbh)
 <!---
 coolbeans1212/coolbeans1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
