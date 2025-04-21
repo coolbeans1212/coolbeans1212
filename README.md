@@ -6,7 +6,7 @@
 - 😄 Pronouns: ban/ana
 - ⚡ Fun fact: i have <a href="https://mateishome.page">a website</a> and its cool
 - 🦟 Fun fact 2: modu is awesome and you should use it
-- 🪿 Fun fact 3: i love php but i HATE javascript... the syntax is so bad!!!!!
+- 🪿 Fun fact 3: i love php but <s>i HATE javascript...</s> just kidding i was forced to use js and its not <i>that</i> bad
 - 😼 Fun fact 4: github copilot told me to tell you that php is my one true love (its not that far off tbh)
 <!---
 coolbeans1212/coolbeans1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
