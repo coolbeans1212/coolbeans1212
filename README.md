@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![stupid hitgub applet](https://github.com/user-attachments/assets/768a8e4a-b9a0-4a1d-87c0-2adce6f370b4)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolbeans1212&langs_count=8&layout=compact&theme=algolia&count_private=true&hide=hack" width=300px alt="Top Languages"/><br>
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=1074&api_domain=hackatime.hackclub.com&theme=algolia&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Statistics">
